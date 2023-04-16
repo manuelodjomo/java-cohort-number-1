@@ -18,8 +18,7 @@ public class Main {
         int produit = a*b;
         int quotient = a/b;
         int reste= a%b;
-        //int increment= ++a;
-        //int decrement= --b;
+
 
 
         System.out.println( a + "*" + b + "=" + produit);
